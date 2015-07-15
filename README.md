@@ -1,0 +1,2 @@
+# geosocial-chat-phonegap
+An android app using phonegap which helps any person in trouble. App contains each person's friend list. Whenever a person is in trouble he/she just has to press one button in app. and app will let his friends know who are currently in radius of 700-800 meters using Google cloud messaging or push notification or any SMS api. It is totally geolocation and geofencing based app. Later on we are planning to add chat facility in it.
